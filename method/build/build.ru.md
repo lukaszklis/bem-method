@@ -44,7 +44,7 @@ library/                # Уровень библиотеки
 
 **Пример**
 
-<img alt="Сборка БЭМ-проекта" src="https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__declaration.svg" width="850.394px" height="524.409px" />
+<img alt="Сборка БЭМ-проекта" src="https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__declaration.svg" max-width="850.394px" height="524.409px" />
 
 В данном примере в проект (Source files) подключена библиотека, из которой на странице используются три блока (`button`, `input`, `langswitch`). Не обязательно включать в сборку всю библиотеку. Достаточно составить список (Declaration) БЭМ-сущностей, используемых на странице. На основании этого списка в финальный файл (`project.css`) попадут только перечисленные блоки.
 
@@ -56,8 +56,8 @@ library/                # Уровень библиотеки
 
 **Пример**
 
-<img alt="Пример составного блока" src="https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__search-form.svg" width="538.893px" height="317.136px"/>
- 
+<img alt="Пример составного блока" src="https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__search-form.svg" max-width="538.893px" height="317.136px"/>
+
 В данном примере форма поиска `search-form` построена на основе блоков `input` (поле ввода) и `button` (кнопка). Не обязательно реализовывать кнопку и поле ввода повторно, если они уже представлены в библиотеке. Достаточно указать зависимости от них.
 
 Инструмент сборки получает данные о зависимостях и добавляет все блоки, элементы, модификаторы и технологии, необходимые для реализации блока. В зависимостях также определяется [порядок подключения БЭМ-сущностей в сборку](#Определение-порядка-подключения-БЭМ-сущностей-в-сборку).
