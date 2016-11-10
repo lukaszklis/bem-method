@@ -44,7 +44,7 @@ library/                # Уровень библиотеки
 
 **Пример**
 
-<img alt="Сборка БЭМ-проекта" src="https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__declaration.svg" max-width="850.394px" height="524.409px" />
+<img alt="Сборка БЭМ-проекта" src="https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__declaration.svg" max-width="827px" height="497px" />
 
 В данном примере в проект (Source files) подключена библиотека, из которой на странице используются три блока (`button`, `input`, `langswitch`). Не обязательно включать в сборку всю библиотеку. Достаточно составить список (Declaration) БЭМ-сущностей, используемых на странице. На основании этого списка в финальный файл (`project.css`) попадут только перечисленные блоки.
 
