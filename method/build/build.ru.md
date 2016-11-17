@@ -56,7 +56,7 @@ library/                # Уровень библиотеки
 
 **Пример**
 
-<img alt="Пример составного блока" src="https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__search-form.svg" width="539px" height="317px" />
+<img alt="Пример составного блока" src="https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__search-form.svg" />
 
 В данном примере форма поиска `search-form` построена на основе блоков `input` (поле ввода) и `button` (кнопка). Не обязательно реализовывать кнопку и поле ввода повторно, если они уже представлены в библиотеке. Достаточно указать зависимости от них.
 
