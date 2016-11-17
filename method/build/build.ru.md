@@ -56,7 +56,7 @@ library/                # Уровень библиотеки
 
 **Пример**
 
-<img alt="Пример составного блока" src="https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__search-form.svg" width="538.893px" height="317.136px" />
+<img alt="Пример составного блока" src="https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__search-form.svg" width="539px" height="317px" />
 
 В данном примере форма поиска `search-form` построена на основе блоков `input` (поле ввода) и `button` (кнопка). Не обязательно реализовывать кнопку и поле ввода повторно, если они уже представлены в библиотеке. Достаточно указать зависимости от них.
 
@@ -96,7 +96,7 @@ library/                # Уровень библиотеки
 
   **Пример**
 
-  <img alt="Уровни переопределения" src="https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__levels.svg" width="598.716px" height="359.063px" />
+  <img alt="Уровни переопределения" src="https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__levels.svg" width="599px" height="359px" />
 
   В данном примере с уровня `common` подключаются общие компоненты для всех платформ, а с уровней `desktop` и `touch` — компоненты, специфичные для каждой из платформ.
 
