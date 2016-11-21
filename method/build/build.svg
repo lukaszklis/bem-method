@@ -74,7 +74,7 @@
 			<title>Горизонтальная линия выноски.540</title>
 			<path d="M0 359.05 L134.31 359.05 L0 359.05 Z" class="st2"/>
 		</g>
-		<g id="shape2-7" transform="translate(30.7124,-299.996)">
+		<g id="shape2-7" transform="translate(31.2793,-299.996)">
 			<title>Text (14).543</title>
 			<desc>Source files</desc>
 			<rect x="0" y="330.708" width="133.228" height="28.3465" class="st3"/>
@@ -404,5 +404,10 @@
 			<pattern id="ptrn2-221_288" patternUnits="userSpaceOnUse" patternTransform="rotate(-24.2045)" xlink:href="#ptrn2-221"/>
 			<path d="M-0 359.05 A73.8039 20.5794 7.4 0 1 95.41 359.05" class="st19"/>
 		</g>
+		<g id="shape204-292" transform="translate(575.433,-299.655)">
+			<title>Text (14).204</title>
+			<desc>Bundles</desc>
+			<rect x="0" y="330.708" width="127.998" height="28.3465" class="st3"/>
+			<text x="35.01" y="349.68" class="st5">Bundles</text>		</g>
 	</g>
 </svg>
