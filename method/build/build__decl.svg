@@ -413,9 +413,9 @@
 			<text x="7.17" y="405.12" class="st5">Declaration</text>		</g>
 		<g id="shape207-288" transform="translate(333.921,-270.425)">
 			<title>Text (14).96</title>
-			<desc>“button”,“logo”,“input”</desc>
+			<desc>&#34;button&#34;, &#34;logo&#34;, &#34;input&#34;</desc>
 			<rect x="0" y="389.385" width="178.322" height="18.6902" class="st3"/>
-			<text x="4" y="403.53" class="st10">“button”<tspan class="st23">,</tspan>“logo”<tspan class="st23">,</tspan>“input”</text>		</g>
+			<text x="4" y="403.53" class="st10">&#34;button&#34;<tspan class="st23">, </tspan>&#34;logo&#34;<tspan class="st23">, </tspan>&#34;input&#34;</text>		</g>
 		<g id="shape209-294" transform="translate(831.286,149.91) rotate(90.1692)">
 			<title>Basic Arrow 1.122</title>
 			<path d="M0 408.07 L63.14 408.07" class="st18"/>
