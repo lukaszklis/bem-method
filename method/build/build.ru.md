@@ -28,7 +28,7 @@ library/                # Уровень библиотеки
 
 Чтобы получить из отдельных файлов технологий общие файлы для всего проекта (бандлы) используется сборка.
 
-![Сборка](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build.svg)
+![Сборка](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build.svg#)
 
 Для этого можно применить любой из [инструментов](#Инструменты-для-сборки).
 
