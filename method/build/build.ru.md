@@ -45,7 +45,7 @@
 
 **Пример**
 
-![Сборка БЭМ-проекта](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__decl.svg)
+![Сборка БЭМ-проекта](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__decl.svg#)
 
 В данном примере в проект (Source files) подключена библиотека, из которой на странице используются три блока (`button`, `input`, `langswitch`). Не обязательно включать в сборку всю библиотеку. Достаточно составить список (Declaration) БЭМ-сущностей, используемых на странице. На основании этого списка в финальный файл (`project.css`) попадут только перечисленные блоки.
 
