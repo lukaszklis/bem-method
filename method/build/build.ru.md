@@ -30,8 +30,6 @@ library/                # Уровень библиотеки
 
 ![Сборка БЭМ-проекта](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build.svg)
 
-<img alt="Сборка БЭМ-проекта" src="https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build.svg"  />
-
 Для этого можно применить любой из [инструментов](#Инструменты-для-сборки).
 
 > Подробнее о том, зачем разделять реализацию блока на отдельные файлы читайте в разделе [Организация файловой структуры БЭМ-проекта](../filestructure/filestructure.ru.md).
