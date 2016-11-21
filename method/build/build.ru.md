@@ -10,22 +10,6 @@
 
 Проекты, построенные по БЭМ-методологии, имеют [разветвленную файловую структуру](../filestructure/filestructure.ru.md). Причина — компонентный подход: реализация [блоков](../key-concepts/key-concepts.ru.md#Блок) в БЭМ делится на независимые [файлы-технологии](../key-concepts/key-concepts.ru.md#Технология-реализации).
 
-Пример организации файловой структуры БЭМ-проекта:
-
-```files
-blocks/                 # Уровень проекта
-    input/              # Директория блока `input`
-        input.css       # Реализация блока `input` в технологии CSS
-        input.js        # Реализация блока `input` в технологии JavaScript
-    icon/
-        icon.css
-
-library/                # Уровень библиотеки
-    input/
-        input.js        # Базовая реализация блока `input` в технологии JavaScript
-    button/
-```
-
 Чтобы получить из отдельных файлов технологий общие файлы для всего проекта (бандлы) используется сборка.
 
 ![Сборка БЭМ-проекта](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build.svg)
