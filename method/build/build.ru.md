@@ -54,7 +54,7 @@
 
 **Пример**
 
-![Пример составного блока](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__search-form.svg)
+![Пример составного блока](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__search-form.svg##)
 
 В данном примере форма поиска `search-form` построена на основе блоков `input` (поле ввода) и `button` (кнопка). Не обязательно реализовывать кнопку и поле ввода повторно, если они уже представлены в библиотеке. Достаточно указать зависимости от них.
 
@@ -85,7 +85,7 @@ blocks/
 
   **Пример**
 
-  ![Уровни переопределения](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__levels.svg)
+  ![Уровни переопределения](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__levels.svg#)
 
   В данном примере с уровня `common` подключаются общие компоненты для всех платформ, а с уровней `desktop` и `touch` — компоненты, специфичные для каждой из платформ.
 
