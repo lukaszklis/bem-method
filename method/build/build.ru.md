@@ -14,7 +14,7 @@
 
 **Пример**
 
-![Сборка БЭМ-проекта](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build.svg)
+![Сборка БЭМ-проекта](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__bem-project.svg)
 
 ## Задачи сборки
 
@@ -40,7 +40,7 @@
 
 **Пример**
 
-![Сборка БЭМ-проекта](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__decl.svg)
+![Сборка БЭМ-проекта](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__declaration.svg)
 
 В данном примере на основе списка (Declaration) БЭМ-сущностей в бандлы (`project.css`, `project.js`) попадают перечисленные блоки (`button`, `logo`, `input`).
 
@@ -58,8 +58,6 @@
 
 В данном примере форма поиска `search-form` построена на основе блоков `input` (поле ввода) и `button` (кнопка). Не обязательно реализовывать кнопку и поле ввода повторно, если они уже представлены в библиотеке. Достаточно указать зависимости от них.
 
-В БЭМ-платформе для указания зависимостей используется технология [DEPS](https://ru.bem.info/technology/deps/).
-
 **Пример**
 
 ```files
@@ -69,11 +67,11 @@ blocks/
         search-form.deps.js   # Файл с зависимостями блока `search-form`
 ```
 
-В зависимостях также можно определить порядок подключения БЭМ-сущностей в сборку.
-
-> Сведения о том, как определить порядок подключения см. в разделе [Определение порядка подключения БЭМ-сущностей в сборку](#Определение-порядка-подключения-БЭМ-сущностей-в-сборку).
+Для указания зависимостей используется технология [DEPS.js](https://ru.bem.info/technology/deps/).
 
 ### Определение порядка подключения БЭМ-сущностей в сборку
+
+Зависимости могут влиять на порядок подключения БЭМ-сущностей в сборку.
 
 Порядок подключения БЭМ-сущностей в сборку зависит от:
 
@@ -87,7 +85,7 @@ blocks/
 
   **Пример**
 
-  <img alt="Уровни переопределения" src="https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__levels.svg" width="599px" height="359px" />
+  ![Уровни переопределения](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__levels.svg)
 
   В данном примере с уровня `common` подключаются общие компоненты для всех платформ, а с уровней `desktop` и `touch` — компоненты, специфичные для каждой из платформ.
 
