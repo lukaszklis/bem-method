@@ -14,7 +14,7 @@
 
 **Пример**
 
-![Сборка БЭМ-проекта](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__bem-project.svg)
+![Сборка БЭМ-проекта](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__bem-project.svg#)
 
 ## Задачи сборки
 
@@ -40,7 +40,7 @@
 
 **Пример**
 
-![Сборка БЭМ-проекта](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__declaration.svg)
+![Сборка БЭМ-проекта](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__declaration.svg#)
 
 В данном примере на основе списка (Declaration) БЭМ-сущностей в бандлы (`project.css`, `project.js`) попадают перечисленные блоки (`button`, `logo`, `input`).
 
