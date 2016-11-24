@@ -45,9 +45,9 @@
 		<title>scheme1</title>
 		<g id="shape4-1" transform="translate(42.9017,-255.118)">
 			<title>Text (14).543</title>
-			<desc>block &#34;search-form&#34;</desc>
+			<desc>Block &#34;search-form&#34;</desc>
 			<rect x="0" y="288.789" width="156.374" height="28.3465" class="st1"/>
-			<text x="5.37" y="307.8" class="st3">block <tspan class="st4">&#34;</tspan>search-form<tspan class="st4">&#34;</tspan></text>		</g>
+			<text x="5.38" y="307.8" class="st3">Block <tspan class="st4">&#34;</tspan>search-form<tspan class="st4">&#34;</tspan></text>		</g>
 		<g id="group100-8" transform="translate(311.024,-34.0157)">
 			<title>iPhone.565</title>
 		</g>
@@ -130,14 +130,14 @@
 			<text x="0" y="316.09" class="st8">Search</text>		</g>
 		<g id="shape174-38" transform="translate(41.9528,-69.382)">
 			<title>Text (14).174</title>
-			<desc>block &#34;input&#34;</desc>
+			<desc>Block &#34;input&#34;</desc>
 			<rect x="0" y="288.789" width="107.008" height="28.3465" class="st1"/>
-			<text x="6.19" y="307.8" class="st3">block <tspan class="st4">&#34;</tspan>input<tspan class="st4">&#34;</tspan></text>		</g>
+			<text x="6.2" y="307.8" class="st3">Block <tspan class="st4">&#34;</tspan>input<tspan class="st4">&#34;</tspan></text>		</g>
 		<g id="shape175-44" transform="translate(383.016,-70.8661)">
 			<title>Text (14).175</title>
-			<desc>block &#34;button&#34;</desc>
+			<desc>Block &#34;button&#34;</desc>
 			<rect x="0" y="288.789" width="134.307" height="28.3465" class="st1"/>
-			<text x="14.11" y="307.8" class="st3">block <tspan class="st4">&#34;</tspan>button<tspan class="st4">&#34;</tspan></text>		</g>
+			<text x="14.12" y="307.8" class="st3">Block <tspan class="st4">&#34;</tspan>button<tspan class="st4">&#34;</tspan></text>		</g>
 		<g id="shape178-50" transform="translate(-226.4,183.908) rotate(-90)">
 			<title>Basic Arrow 1.545</title>
 			<path d="M0 317.14 L51.02 317.14" class="st10"/>
