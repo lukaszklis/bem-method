@@ -56,7 +56,7 @@
 
 **Пример**
 
-![Пример составного блока](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__search-form.svg)
+![Пример составного блока](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__search-form.svg#)
 
 В данном примере форма поиска `search-form` построена на основе блоков `input` (поле ввода) и `button` (кнопка). Не обязательно реализовывать кнопку и поле ввода повторно. Достаточно указать зависимости от них.
 
